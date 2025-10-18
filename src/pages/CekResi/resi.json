@@ -1,0 +1,117 @@
+{
+  "resi_data": [
+    {
+      "no_resi": "JKT001234567",
+      "tanggal_kirim": "2025-10-15",
+      "pengirim": {
+        "nama": "Budi Santoso",
+        "alamat": "Jl. Sudirman No. 123, Jakarta Pusat",
+        "telepon": "081234567890"
+      },
+      "penerima": {
+        "nama": "Siti Nurhaliza",
+        "alamat": "Jl. Asia Afrika No. 456, Bandung",
+        "telepon": "082345678901"
+      },
+      "layanan": "OK",
+      "status": "Terkirim",
+      "berat": "2 kg",
+      "tracking": [
+        {
+          "tanggal": "2025-10-15 08:00",
+          "status": "Paket diterima di counter",
+          "lokasi": "Jakarta Pusat"
+        },
+        {
+          "tanggal": "2025-10-15 14:30",
+          "status": "Dalam proses sorting",
+          "lokasi": "Hub Jakarta"
+        },
+        {
+          "tanggal": "2025-10-15 20:00",
+          "status": "Paket dalam perjalanan",
+          "lokasi": "Jakarta - Bandung"
+        },
+        {
+          "tanggal": "2025-10-16 09:15",
+          "status": "Paket tiba di kota tujuan",
+          "lokasi": "Hub Bandung"
+        },
+        {
+          "tanggal": "2025-10-16 11:30",
+          "status": "Paket sedang diantar kurir",
+          "lokasi": "Bandung"
+        },
+        {
+          "tanggal": "2025-10-16 14:45",
+          "status": "Paket telah diterima",
+          "lokasi": "Bandung",
+          "penerima": "Siti Nurhaliza"
+        }
+      ]
+    },
+    {
+      "no_resi": "BDG987654321",
+      "tanggal_kirim": "2025-10-17",
+      "pengirim": {
+        "nama": "Ahmad Yani",
+        "alamat": "Jl. Riau No. 88, Bandung",
+        "telepon": "083456789012"
+      },
+      "penerima": {
+        "nama": "Dewi Lestari",
+        "alamat": "Jl. Thamrin No. 234, Jakarta Selatan",
+        "telepon": "084567890123"
+      },
+      "layanan": "REG",
+      "status": "Dalam Perjalanan",
+      "berat": "1.5 kg",
+      "tracking": [
+        {
+          "tanggal": "2025-10-17 10:00",
+          "status": "Paket diterima di counter",
+          "lokasi": "Bandung"
+        },
+        {
+          "tanggal": "2025-10-17 16:00",
+          "status": "Dalam proses sorting",
+          "lokasi": "Hub Bandung"
+        },
+        {
+          "tanggal": "2025-10-17 22:00",
+          "status": "Paket dalam perjalanan",
+          "lokasi": "Bandung - Jakarta"
+        }
+      ]
+    },
+    {
+      "no_resi": "SBY555666777",
+      "tanggal_kirim": "2025-10-18",
+      "pengirim": {
+        "nama": "Rina Wijaya",
+        "alamat": "Jl. Pemuda No. 99, Surabaya",
+        "telepon": "085678901234"
+      },
+      "penerima": {
+        "nama": "Fajar Nugroho",
+        "alamat": "Jl. Sunset Road No. 77, Bali",
+        "telepon": "086789012345"
+      },
+      "layanan": "YES",
+      "status": "Diproses",
+      "berat": "3 kg",
+      "tracking": [
+        {
+          "tanggal": "2025-10-18 09:00",
+          "status": "Paket diterima di counter",
+          "lokasi": "Surabaya"
+        },
+        {
+          "tanggal": "2025-10-18 15:00",
+          "status": "Dalam proses sorting",
+          "lokasi": "Hub Surabaya"
+        }
+      ]
+    }
+  ]
+}

@@ -138,7 +138,7 @@ export default function Home({navigation}) {
         <TouchableOpacity
           style={[styles.menuCard, {marginTop: 12}]}
           activeOpacity={0.8}
-          onPress={() => console.log('Cek Resi tapped')}>
+          onPress={() => navigation.navigate("CekResi")}>
           <View style={styles.iconWrap}>
             <Text style={styles.icon}>🔎</Text>
           </View>

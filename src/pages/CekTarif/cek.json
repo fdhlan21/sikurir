@@ -1,0 +1,139 @@
+{
+  "tarif_data": [
+    {
+      "id": 1,
+      "asal": "Jakarta",
+      "tujuan": "Bandung",
+      "tarif": {
+        "OK": 150000,
+        "REG": 75000,
+        "YES": 50000
+      },
+      "estimasi_waktu": {
+        "OK": "1 hari",
+        "REG": "2-3 hari",
+        "YES": "3-4 hari"
+      }
+    },
+    {
+      "id": 2,
+      "asal": "Jakarta",
+      "tujuan": "Surabaya",
+      "tarif": {
+        "OK": 200000,
+        "REG": 100000,
+        "YES": 65000
+      },
+      "estimasi_waktu": {
+        "OK": "1-2 hari",
+        "REG": "3-4 hari",
+        "YES": "4-5 hari"
+      }
+    },
+    {
+      "id": 3,
+      "asal": "Bandung",
+      "tujuan": "Jakarta",
+      "tarif": {
+        "OK": 150000,
+        "REG": 75000,
+        "YES": 50000
+      },
+      "estimasi_waktu": {
+        "OK": "1 hari",
+        "REG": "2-3 hari",
+        "YES": "3-4 hari"
+      }
+    },
+    {
+      "id": 4,
+      "asal": "Bandung",
+      "tujuan": "Surabaya",
+      "tarif": {
+        "OK": 180000,
+        "REG": 90000,
+        "YES": 60000
+      },
+      "estimasi_waktu": {
+        "OK": "1-2 hari",
+        "REG": "3-4 hari",
+        "YES": "4-5 hari"
+      }
+    },
+    {
+      "id": 5,
+      "asal": "Surabaya",
+      "tujuan": "Jakarta",
+      "tarif": {
+        "OK": 200000,
+        "REG": 100000,
+        "YES": 65000
+      },
+      "estimasi_waktu": {
+        "OK": "1-2 hari",
+        "REG": "3-4 hari",
+        "YES": "4-5 hari"
+      }
+    },
+    {
+      "id": 6,
+      "asal": "Surabaya",
+      "tujuan": "Bali",
+      "tarif": {
+        "OK": 120000,
+        "REG": 60000,
+        "YES": 40000
+      },
+      "estimasi_waktu": {
+        "OK": "1 hari",
+        "REG": "2-3 hari",
+        "YES": "3-4 hari"
+      }
+    },
+    {
+      "id": 7,
+      "asal": "Jakarta",
+      "tujuan": "Medan",
+      "tarif": {
+        "OK": 300000,
+        "REG": 150000,
+        "YES": 100000
+      },
+      "estimasi_waktu": {
+        "OK": "2-3 hari",
+        "REG": "4-5 hari",
+        "YES": "6-7 hari"
+      }
+    },
+    {
+      "id": 8,
+      "asal": "Jakarta",
+      "tujuan": "Yogyakarta",
+      "tarif": {
+        "OK": 160000,
+        "REG": 80000,
+        "YES": 55000
+      },
+      "estimasi_waktu": {
+        "OK": "1 hari",
+        "REG": "2-3 hari",
+        "YES": "3-4 hari"
+      }
+    }
+  ],
+  "daftar_kota": [
+    "Jakarta",
+    "Bandung",
+    "Surabaya",
+    "Yogyakarta",
+    "Bali",
+    "Medan",
+    "Semarang",
+    "Makassar"
+  ],
+  "keterangan_layanan": {
+    "OK": "Layanan kilat, pengiriman tercepat",
+    "REG": "Layanan reguler, harga ekonomis",
+    "YES": "Layanan hemat, untuk yang tidak terburu-buru"
+  }
+}
